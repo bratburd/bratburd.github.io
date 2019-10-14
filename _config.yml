@@ -11,9 +11,9 @@ title                    : "Jenny Bratburd"
 title_separator          : "-"
 name                     : &name "Jenny Bratburd"
 description              : &description "Microbiology PhD candidate at University of Wisconsin Madison and Policy Engagement Coordinator for Catalysts for Science Policy"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bratburd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bratburd/bratburd.github.io"
+repository               : "https://github.com/bratburd"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jenny Bratburd"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Microbiology PhD candidate at University of Wisconsin Madison and Policy Engagement Coordinator for Catalysts for Science Policy"
   location         : "Madison, Wisconsin"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Bratburd"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "bratburd"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5787-1470"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
