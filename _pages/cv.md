@@ -72,12 +72,12 @@ Teaching
    * Lectured on new techniques in the field for large undergraduate class
 
  * Microbiology 305: Critical Analyses in Microbiology - Teaching Fellow        
-  * Developed teachable unit including lecture, discussion questions and homework
-  * Promoted learning through discussion between undergraduate students, focusing on critical thinking skills
+   * Developed teachable unit including lecture, discussion questions and homework
+   * Promoted learning through discussion between undergraduate students, focusing on critical thinking skills
 
  * Medical Microbiology and Immunology 341: Immunology -Teaching Assistant       
-  * Calculated grades and implemented opportunities for student questions to facilitate participation
-  * Developed lecture on mucosal immunity
+   * Calculated grades and implemented opportunities for student questions to facilitate participation
+   * Developed lecture on mucosal immunity
 
   #<ul>{% for post in site.teaching %}
    #{% include archive-single-cv.html %}
