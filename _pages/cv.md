@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -79,9 +79,9 @@ Teaching
    * Calculated grades and implemented opportunities for student questions to facilitate participation
    * Developed lecture on mucosal immunity
 
-  #(<ul>{% for post in site.teaching %})
-   #({% include archive-single-cv.html %})
- <---! #({% endfor %}</ul>) --->
+ <!-- (<ul>{% for post in site.teaching %}) -- >
+ <!--  ({% include archive-single-cv.html %}) -->
+ <!-- ({% endfor %}</ul>) -->
   
 Service
 ======
