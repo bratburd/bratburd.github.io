@@ -39,8 +39,8 @@ Science Policy and Outreach
   * Tested and presented activities at multiple outreach events
 
 * Outreach Volunteer Coordinator - [Currie Lab](https://currielab.wisc.edu/index.php)                          
- * Coordinated undergraduate and graduate volunteers to engage visitors with hands-on demonstrations, tours, and games 
- * Conveyed research to various audiences at the Wisconsin Science Festival, Science Expeditions (families and general public), Expanding Your Horizons (middle school girls    interested in science), and PLATO Frontiers in Life Sciences (retirees) 
+  * Coordinated undergraduate and graduate volunteers to engage visitors with hands-on demonstrations, tours, and games 
+  * Conveyed research to various audiences at the Wisconsin Science Festival, Science Expeditions (families and general public), Expanding Your Horizons (middle school girls    interested in science), and PLATO Frontiers in Life Sciences (retirees) 
 
 
   
@@ -67,9 +67,21 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+ * Microbiology 450: Diversity, Ecology & Evolution - Guest Lecturer                      
+   * Lectured on new techniques in the field for large undergraduate class
+
+ * Microbiology 305: Critical Analyses in Microbiology - Teaching Fellow        
+  * Developed teachable unit including lecture, discussion questions and homework
+  * Promoted learning through discussion between undergraduate students, focusing on critical thinking skills
+
+ * Medical Microbiology and Immunology 341: Immunology -Teaching Assistant       
+  * Calculated grades and implemented opportunities for student questions to facilitate participation
+  * Developed lecture on mucosal immunity
+
+  #<ul>{% for post in site.teaching %}
+   #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
 Service and leadership
 ======
