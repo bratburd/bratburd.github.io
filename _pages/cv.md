@@ -11,21 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Microbiology, University of Wisconsin-Madison
+* B.S. in Microbial Science, University of California, Berkeley
 
-Work experience
+Science Policy and Outreach
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Environmental Policy Intern - [Clean Wisconsin](https://www.cleanwisconsin.org/)
+  * Performed background research on water quality issues including those related to nitrate and Per - and poly fluoroalkyl substances (PFAS)
+  * Created report on health impacts of septic system and pertinent regulations
+  * Assisted in providing information at Water Lobby Day
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Policy Engagement Chair - [Catalysts for Science Policy](https://casp.wisc.edu/)
+  * Wrote and published policy memo on improving forensic science in Wisconsin with a team of graduate students
+  * Organized panel of experts to inform the public about issues in forensic sciences
+  * Engaged public with informal presentation on forensic science using examples from television series “Making of a Murderer”
+  * Successfully obtained funding, conducted interviews, and edited recordings for a science policy podcast [“In a Perfect Policy”](https://casp.wisc.edu/podcast/)
+  * Organized team of graduate students to evaluate and compare departmental graduate handbooks to find areas for improvement on mentorship policies
+  
+* Outreach Coordinator - [Catalysts for Science Policy](https://casp.wisc.edu/)                                                                  
+  * Created interactive science policy outreach activities 
+  * Organized volunteers at public science festivals    
+  * Assisted in planning and publicizing events targeted graduate students interested in policy
+
+* [Wisconsin Idea STEM Fellow](https://broaderimpacts.wisc.edu/wisconsin-idea-stem-fellows-home-mockup/)                                  
+  * Designed activities based on current research to present at outreach events
+  * Tested and presented activities at multiple outreach events
+
+* Outreach Volunteer Coordinator - [Currie Lab](https://currielab.wisc.edu/index.php)                          
+ * Coordinated undergraduate and graduate volunteers to engage visitors with hands-on demonstrations, tours, and games 
+ * Conveyed research to various audiences at the Wisconsin Science Festival, Science Expeditions (families and general public), Expanding Your Horizons (middle school girls    interested in science), and PLATO Frontiers in Life Sciences (retirees) 
+
+
   
 Skills
 ======
