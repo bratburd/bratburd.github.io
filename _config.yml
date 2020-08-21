@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jenny Bratburd"
 title_separator          : "-"
 name                     : &name "Jenny Bratburd"
-description              : &description "Microbiology PhD candidate at University of Wisconsin Madison and Policy Engagement Coordinator for Catalysts for Science Policy"
+description              : &description "Policy Fellow at Missouri Science and Technology Policy Initiative"
 url                      : https://bratburd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/bratburd"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jenny Bratburd"
   avatar           : "profile.png"
-  bio              : "Microbiology PhD candidate at University of Wisconsin Madison and Policy Engagement Coordinator for Catalysts for Science Policy"
-  location         : "Madison, Wisconsin"
+  bio              : "Policy Fellow at Missouri Science and Technology Policy Initiative"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Bratburd"
   googlescholar    : "https://scholar.google.com/citations?user=6vsOVpkAAAAJ&hl=en"
