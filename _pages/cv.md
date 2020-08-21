@@ -81,8 +81,17 @@ Teaching
 
   #(<ul>{% for post in site.teaching %})
    #({% include archive-single-cv.html %})
-  #({% endfor %}</ul>)
+ <---! #({% endfor %}</ul>) --->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* National Science Policy Network - Finance Committee
+* National Microbiome Data Collection - Champion
+* Microbiology Doctoral Training Program - Steering Committee
+* Microbiology Doctoral Training Program - Admissions Committee
+
+Scientific Societies
+======
+* National Science Policy Network
+* American Society for Microbiology
+* American Association for the Advancement of Science
