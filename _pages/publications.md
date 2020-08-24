@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<--![MG Chevrette, <b>JR Bratburd</b>, CR Currie, RM Stubbendieck (2019) "Experimental Microbiomes: Models Not to Scale" <i>mSystems</i>4 (4), e00175-19](https://msystems.asm.org/content/4/4/e00175-19)
+<!--[MG Chevrette, <b>JR Bratburd</b>, CR Currie, RM Stubbendieck (2019) "Experimental Microbiomes: Models Not to Scale" <i>mSystems</i>4 (4), e00175-19](https://msystems.asm.org/content/4/4/e00175-19)
 
 [<b>JR Bratburd</b>, C Keller, E Vivas, E Gemperline, L Li, FE Rey, CR Currie. (2018) "Gut Microbial and Metabolic Responses to <i>Salmonella enterica </i>Serovar Typhimurium and <i>Candida albicans</i>" <i>mBio</i> (6), e02032-18](https://mbio.asm.org/content/9/6/e02032-18)
 
